@@ -6,7 +6,6 @@ import Projects from "./components/Projects/Projects";
 import Tecnologies from "./components/Tecnologies/Tecnologies";
 import React, { createContext } from "react";
 import { ThemeContext } from "styled-components";
-import Contact from "./components/Contact/Contact";
 import { ToastContainer } from "react-toastify";
 import { useLocation } from "react-router-dom";
 
@@ -31,7 +30,6 @@ export default function App() {
 					<AboutMe/>
 					<Tecnologies/>
 					<Projects/>
-					<Contact/>
 				</LanguageContext.Provider>
 			</ThemeContext.Provider>
 		</>

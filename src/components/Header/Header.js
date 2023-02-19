@@ -54,7 +54,6 @@ export default function AboutMe() {
 						<li><a href="#about-me">SOBRE MIM</a></li>
 						<li><a href="#tecnologies">TECNOLOGIAS</a></li>
 						<li><a href="#projects">PROJETOS</a></li>
-						<li><a href="#contact">CONTATO</a></li>
 					</>
 					}
 				</ul>
